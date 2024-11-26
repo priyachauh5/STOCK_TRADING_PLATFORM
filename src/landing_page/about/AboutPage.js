@@ -13,8 +13,6 @@ function AboutPage() {
             <Hero />
             <Team />
             <OpenAccount />
-            <Navbar />
-            <Footer />
         </>
      
      );
