@@ -45,9 +45,6 @@ The project also focuses on writing testable code, maintaining a structured Git 
 - GitHub
 - npm
 
-### Deployment
-- AWS
-
 ---
 
 ## ✨ Key Features
